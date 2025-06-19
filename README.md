@@ -13,8 +13,6 @@ I'm a creatively driven and hospitality-rooted professional with a passion for t
 
 ## 📁 Featured Projects
 
-## 📁 Featured Projects
-
 - **[🎵 Music Analytics Capstone](https://github.com/chrissyh1/portfolioarchive/tree/main/music-analytics-capstone)**  
   Analyzed Spotify, YouTube & Instagram data from 2020–2025 to develop artist marketing strategies.
 
