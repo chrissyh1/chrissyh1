@@ -13,11 +13,19 @@ I'm a creatively driven and hospitality-rooted professional with a passion for t
 
 ## 📁 Featured Projects
 
-- **[🎵 Music Analytics Capstone](https://github.com/christiiineh/music-capstone)**  
-  Cleaned and analyzed Spotify, YouTube & Instagram data (2020–2025) to create a multi-platform music marketing strategy.
+## 📁 Featured Projects
 
-- **[📊 SQL Window Functions Series](https://github.com/christiiineh/chrissys_portfolio)**  
-  4-part SQL challenge applying aggregations, subqueries, time-series analysis, and financial metrics.
+- **[🎵 Music Analytics Capstone](https://github.com/chrissyh1/portfolioarchive/tree/main/music-analytics-capstone)**  
+  Analyzed Spotify, YouTube & Instagram data from 2020–2025 to develop artist marketing strategies.
+
+- **[🥫 Food Distribution Analysis (Power BI)](https://github.com/chrissyh1/portfolioarchive/tree/main/food-distribution-powerbi)**  
+  Explored food insecurity and distribution patterns using interactive Power BI dashboards.
+
+- **[📊 COVID Storytelling (Tableau)](https://github.com/chrissyh1/portfolioarchive/tree/main/covid-storytelling-tableau)**  
+  Created a visual narrative of COVID-19 impact using Tableau's story dashboards.
+
+- **[🧮 SQL Function Series](https://github.com/chrissyh1/portfolioarchive/tree/main/sql-series)**  
+  A 4-part series using SQL to explore window functions, rankings, aggregations, and financial metrics.
 
 ---
 
