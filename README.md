@@ -1,7 +1,7 @@
 # Chrissy Hernandez
 
 🎨 Junior Data Analyst & Creative Strategist  
-📍 Clifton, NJ • 📧 christiiineh@gmail.com • 💻 [chrissyh1.github.io](https://chrissyh1.github.io)
+📍 Clifton, NJ • 📧 chrissyh.data@gmail.com • 💻 [chrissyh1.github.io](https://chrissyh1.github.io)
 
 ---
 
